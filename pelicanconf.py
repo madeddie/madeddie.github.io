@@ -5,8 +5,8 @@ from __future__ import unicode_literals
 AUTHOR = u'Edwin Hermans'
 SITENAME = u'madeddieclopaedia'
 SITEURL = 'http://madeddie.github.io'
-
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Amsterdam'
+THEME = 'monospace'
 
 DEFAULT_LANG = u'en'
 
@@ -23,6 +23,9 @@ LINKS =  (('inside Habbie\'s mind', 'http://7bits.nl/blog/'),
 # Social widget
 SOCIAL = (('Twitter', 'http://twitter.com/madeddie'),
           ('github', 'http://github.com/madeddie'),)
+
+GITHUB_URL = 'http://github.com/madeddie'
+TWITTER_USERNAME = 'madeddie'
 
 DEFAULT_PAGINATION = 4
 
