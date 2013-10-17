@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Edwin Hermans'
 SITENAME = u'madeddieclopaedia'
-SITEURL = ''
+SITEURL = 'http://madeddie.github.io'
 
 TIMEZONE = 'Europe/Paris'
 
@@ -16,14 +16,13 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Pelican', 'http://getpelican.com/'),
-          ('Python.org', 'http://python.org/'),
-          ('Jinja2', 'http://jinja.pocoo.org/'),
-          ('You can modify those links in your config file', '#'),)
+LINKS =  (('inside Habbie\'s mind', 'http://7bits.nl/blog/'),
+          ('Pelican', 'http://getpelican.com/'),
+          ('Python.org', 'http://python.org/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Twitter', 'http://twitter.com/madeddie'),
+          ('github', 'http://github.com/madeddie'),)
 
 DEFAULT_PAGINATION = 4
 
