@@ -10,6 +10,7 @@ THEME = 'monospace'
 
 DEFAULT_LANG = u'en'
 
+STATIC_PATHS = ['images', 'README.md']
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
