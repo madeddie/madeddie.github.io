@@ -6,7 +6,9 @@ AUTHOR = u'Edwin Hermans'
 SITENAME = u'madeddieclopaedia'
 SITEURL = 'http://madeddie.github.io'
 TIMEZONE = 'Europe/Amsterdam'
-THEME = 'monospace'
+THEME = 'themes/bootstrap'
+DIRECT_TEMPLATES = (('index', 'blog', 'tags', 'categories', 'archives'))
+PAGINATED_DIRECT_TEMPLATES = (('blog', ))
 
 DEFAULT_LANG = u'en'
 
@@ -31,4 +33,4 @@ TWITTER_USERNAME = 'madeddie'
 DEFAULT_PAGINATION = 4
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
