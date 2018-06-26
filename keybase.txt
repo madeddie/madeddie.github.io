@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/madeddie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://madtech.cx
+  * I am madeddie (https://keybase.io/madeddie) on keybase.
+  * I have a public key ASDvJfxzvl2I4IiASRlRbnbGv_MaJlDyRBdW1fqOBKH9iwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120ef25fc73be5d88e088804919516e76c6bff31a2650f2441756d5fa8e04a1fd8b0a",
+            "host": "keybase.io",
+            "kid": "0120ef25fc73be5d88e088804919516e76c6bff31a2650f2441756d5fa8e04a1fd8b0a",
+            "uid": "e37023b65be81d2a888ec084d8eef100",
+            "username": "madeddie"
+        },
+        "service": {
+            "hostname": "madtech.cx",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1482252776,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1482252660,
+        "hash": "7bc98a68106bfb08f7afedbcc60b2959b52d4cf0e38bc5b80014574064639b51a061e86920bfa2c2b42cfe054692486f8e840287bdb7be0829fac5e2498e73f0",
+        "seqno": 769111
+    },
+    "prev": "4dd25ee230cd0f588050f41bc060c85ec908261ee80ab99b00560b8172ebcef4",
+    "seqno": 33,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7yX8c75diOCIgEkZUW52xr/zGiZQ8kQXVtX6jgSh/YsKp3BheWxvYWTFAvN7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZWYyNWZjNzNiZTVkODhlMDg4ODA0OTE5NTE2ZTc2YzZiZmYzMWEyNjUwZjI0NDE3NTZkNWZhOGUwNGExZmQ4YjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZWYyNWZjNzNiZTVkODhlMDg4ODA0OTE5NTE2ZTc2YzZiZmYzMWEyNjUwZjI0NDE3NTZkNWZhOGUwNGExZmQ4YjBhIiwidWlkIjoiZTM3MDIzYjY1YmU4MWQyYTg4OGVjMDg0ZDhlZWYxMDAiLCJ1c2VybmFtZSI6Im1hZGVkZGllIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJtYWR0ZWNoLmN4IiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTgifSwiY3RpbWUiOjE0ODIyNTI3NzYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ4MjI1MjY2MCwiaGFzaCI6IjdiYzk4YTY4MTA2YmZiMDhmN2FmZWRiY2M2MGIyOTU5YjUyZDRjZjBlMzhiYzViODAwMTQ1NzQwNjQ2MzliNTFhMDYxZTg2OTIwYmZhMmMyYjQyY2ZlMDU0NjkyNDg2ZjhlODQwMjg3YmRiN2JlMDgyOWZhYzVlMjQ5OGU3M2YwIiwic2Vxbm8iOjc2OTExMX0sInByZXYiOiI0ZGQyNWVlMjMwY2QwZjU4ODA1MGY0MWJjMDYwYzg1ZWM5MDgyNjFlZTgwYWI5OWIwMDU2MGI4MTcyZWJjZWY0Iiwic2Vxbm8iOjMzLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQJz2YKpjXnq1ZbqvzXDsFa+q2EeKpVNezuoVL/SrcFEbmYfxN/ik0i1PLls+loe2DUc52bmLSsrpgfDFZaNNCAuoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCCkBGw9asHfwrzl9tDPh5U23be7WiT3sumPh4We0h50aN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/madeddie
+
+==================================================================
