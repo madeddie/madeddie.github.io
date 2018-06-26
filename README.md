@@ -1,4 +1,4 @@
 madeddie.github.io
 ==================
 
-Generated output of the Pelican managed website of madtech.cx/.nl
+My website, generated with Jekyll.
