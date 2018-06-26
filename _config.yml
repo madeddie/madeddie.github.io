@@ -24,11 +24,13 @@ twitter_username: madeddie
 github_username:  madeddie
 
 show_downloads: false
-google_analytics:
+repository: madeddie/madeddie.github.io
+google_analytics: UA-121442536-1
 
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
+
 # plugins:
 #   - jekyll-feed
 
