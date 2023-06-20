@@ -25,7 +25,8 @@ github_username:  madeddie
 
 show_downloads: false
 repository: madeddie/madeddie.github.io
-google_analytics: UA-121442536-1
+#google_analytics: UA-121442536-1
+google_analytics: G-3QN5VJ4BX9
 
 # Build settings
 markdown: kramdown
